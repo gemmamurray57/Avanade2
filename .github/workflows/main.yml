@@ -1,0 +1,25 @@
+name : Example
+
+on:
+  push:
+    branches: [ "dev" ]
+  pull_request: 
+    branches: [ "dev" ]
+  workflow_dispatch:
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Setup #
+    - uses: actions/checkout@v2
+
+    - name: test
+      run: Hello World!
+
+    - name: files
+      run: ls -ra
+
+    - name: success
+      run: ./script.sh
