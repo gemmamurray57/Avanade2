@@ -1,6 +1,6 @@
 ### Hello World!
 
 - hello  
-- devvvvv  
-- Devlog 1  
+- dev  
+- Devlog One  
 
