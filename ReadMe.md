@@ -1,8 +1,10 @@
 Hello World!
 
 <<<<<<< HEAD
-whattttt
+w
 
+
+hello
 devvvvv
 =======
 Devlog 1
