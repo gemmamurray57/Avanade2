@@ -1,7 +1,7 @@
 Hello World!
 
 <<<<<<< HEAD
-whattttt
+
 
 devvvvv
 =======
