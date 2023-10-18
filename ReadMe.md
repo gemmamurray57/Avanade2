@@ -1,9 +1,6 @@
-Hello World!
+### Hello World!
 
-<<<<<<< HEAD
-whattttt
-
-devvvvv
-=======
-Devlog 1
->>>>>>> main
+- hello  
+- dev  
+- Devlog One  
+- Test branch changes
