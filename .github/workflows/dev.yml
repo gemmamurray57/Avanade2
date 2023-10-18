@@ -1,4 +1,4 @@
-name : Example
+name : list files
 
 on:
   push:
@@ -20,6 +20,3 @@ jobs:
 
     - name: files
       run: ls -ra
-
-    - name: success
-      run: ./script.sh
