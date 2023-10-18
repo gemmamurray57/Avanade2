@@ -1,11 +1,6 @@
-Hello World!
+### Hello World!
 
-<<<<<<< HEAD
-w
+- hello  
+- devvvvv  
+- Devlog 1  
 
-
-hello
-devvvvv
-=======
-Devlog 1
->>>>>>> main
